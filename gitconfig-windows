@@ -3,3 +3,6 @@
 
 [gpg "ssh"]
   program = "C:/Users/esousa/AppData/Local/1Password/app/8/op-ssh-sign.exe"
+
+[core]
+  editor = neovide
